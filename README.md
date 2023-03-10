@@ -174,5 +174,3 @@ $ git push -f origin patch2
 ## 8. Убедитель, что в pull-request пропали конфликтны.
 
 ## 9. Вмержите pull-request patch2 -> master.
-
-#References used
